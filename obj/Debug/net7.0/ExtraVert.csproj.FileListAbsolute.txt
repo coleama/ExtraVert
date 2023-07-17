@@ -1,0 +1,15 @@
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\ExtraVert.csproj.AssemblyReference.cache
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\ExtraVert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\ExtraVert.AssemblyInfoInputs.cache
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\ExtraVert.AssemblyInfo.cs
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\ExtraVert.csproj.CoreCompileInputs.cache
+C:\Users\colea\workspace\csharp\ExtraVert\bin\Debug\net7.0\ExtraVert.exe
+C:\Users\colea\workspace\csharp\ExtraVert\bin\Debug\net7.0\ExtraVert.deps.json
+C:\Users\colea\workspace\csharp\ExtraVert\bin\Debug\net7.0\ExtraVert.runtimeconfig.json
+C:\Users\colea\workspace\csharp\ExtraVert\bin\Debug\net7.0\ExtraVert.dll
+C:\Users\colea\workspace\csharp\ExtraVert\bin\Debug\net7.0\ExtraVert.pdb
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\ExtraVert.dll
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\refint\ExtraVert.dll
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\ExtraVert.pdb
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\ExtraVert.genruntimeconfig.cache
+C:\Users\colea\workspace\csharp\ExtraVert\obj\Debug\net7.0\ref\ExtraVert.dll
